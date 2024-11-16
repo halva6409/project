@@ -1,5 +1,5 @@
 {
-    "modelUri": "gpt://b1ghnehmnn3n3dvbqi90/yandexgpt/lasted",
+    "modelUri": "gpt://b1ghnehmnn3n3dvbqi90/yandexgpt-lite",
     "completionOptions": {
       "stream": false,
       "temperature": 0.3,
