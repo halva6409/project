@@ -1,0 +1,18 @@
+{
+    "modelUri": "gpt://b1ghnehmnn3n3dvbqi90/yandexgpt/lasted",
+    "completionOptions": {
+      "stream": false,
+      "temperature": 0.3,
+      "maxTokens": "2000"
+    },
+    "messages": [
+      {
+        "role": "system",
+        "text": "Ты умный ассистент помешанный на учёбе"
+      },
+      {
+        "role": "user", 
+        "text": "Привет! Какими науками занимался Альберт Эйнштейн?"
+      }
+    ]
+  }
